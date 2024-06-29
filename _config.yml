@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lrita.github.io
+url: https://wenzhang-dev.github.io
 date_format: "ordinal"
-title: 源代码
+title: wenzhang-dev's blogs
 subtitle: ""
-description: "lrita's blog"
+description: "wenzhang-dev's blog"
 keywords: 源代码, golang, c, cpp, c++, rust
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Neal Hu
+author: wenzhang-dev
 organization: Weibo, Inc.
 organization_url: http://www.weibo.com
-github_username: lrita
+github_username: wenzhang
 location: Beijing, China
-email: lrita@163.com
+email: 244680679@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: lrita/lrita.github.io
+repository: wenzhang-dev/wenzhang-dev.github.io
 
 webrick:
   headers:
